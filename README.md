@@ -1,2 +1,9 @@
-# janken
-112-2 CVMMI Final Project，利用opencv和mediapipe的手部辨識技術達成與電腦猜拳
+# janken 猜拳
+## version
+- Python 3.9.13
+- mediapipe 0.10.14
+- opencv-python 4.6.0
+## 功能
+- 一局猜拳
+- 必定會贏的猜拳
+- 可以連續3局的猜拳
