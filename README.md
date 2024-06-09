@@ -1,4 +1,4 @@
-# janken 猜拳
+# janken soul 拳魂
 ## version
 - Python 3.9.13
 - mediapipe 0.10.14
