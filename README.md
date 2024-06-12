@@ -10,3 +10,4 @@
 
 ## Reference
 - [mediapipe教學](https://steam.oxxostudio.tw/category/python/ai/ai-mediapipe-2023.html)
+- [圖片來源 いらすとや](https://www.irasutoya.com/)
